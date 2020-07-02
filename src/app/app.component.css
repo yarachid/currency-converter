@@ -1,0 +1,20 @@
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #2196f3;
+  padding: 15px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+}
+
+a:hover{
+  background-color: #2076c7;
+}
+
